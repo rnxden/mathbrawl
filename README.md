@@ -40,3 +40,7 @@ To ensure proper coding conventions are being followed:
 ```bash
 pnpm run lint
 ```
+
+## Roadmap
+
+The project roadmap can be found [here](ROADMAP.md).
