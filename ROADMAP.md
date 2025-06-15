@@ -5,7 +5,9 @@ Roadmap is subject to change.
 ## Design Patterns
 
 - Should be incredibly modular. Any part of the code should be able to be hotswapped and run through mock testing.
--
+- Should follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for organization and
+  professionalism
+- Should NEVER push to the master branch, but use an individual branch and send in pull requests
 
 ## Frontend
 
