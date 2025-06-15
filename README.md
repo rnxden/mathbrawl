@@ -7,7 +7,7 @@ To get started with the repository, ensure the following dependencies are instal
 - [Node.js](https://nodejs.org/en/download) (v22 LTS or higher) - JS/TS runtime
 - [pnpm](https://pnpm.io/installation) - Package manager
 
-We use [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/) in this project.
+This project is written in [TypeScript](https://www.typescriptlang.org/), using [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/).
 
 ## Installation
 
