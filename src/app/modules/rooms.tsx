@@ -1,8 +1,8 @@
-import { randomUUID } from "crypto";
+import { v4 } from "uuid";
 import Room from "./room";
 
 export function createRoom(): Room {
-  let roomId = randomUUID();
+  let roomId = v4();
   return new Room(roomId, {
     mode: "time",
     timeMs: 60000,
